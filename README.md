@@ -1,6 +1,3 @@
-# :two_hearts: Health Care Chat-Bot 🤖
-Project for the 6th Semester Subject -> Machine Learning
-
 Health Care Chat-Bot is a Healthcare Domain Chatbot to simulate the predictions of a General Physician.
 
 ## :page_with_curl: Brief
@@ -50,10 +47,4 @@ To make sure it is installed correctly, open IDLE and execute :
 If no errors appeared then the installation is done correctly.
 Then, Go to your directory and run the file `QuestionDiagonosisTkinter.py`
 
-
-## :suspect: Project Members
-
-- [Aryan Veturekar](https://github.com/aryanveturekar)
-- [Himanshu Singh](https://github.com/himanshusiingh)
-- [Danish Shaikh](https://github.com/danishsshaikh)
 
