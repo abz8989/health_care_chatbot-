@@ -1,4 +1,4 @@
-Health Care Chat-Bot is a Healthcare Domain Chatbot to simulate the predictions of a General Physician.
+Health Care Chat-Bot is a Healthcare Domain Chatbot to simulate the predictions of disease and doctor preference.
 
 ## :page_with_curl: Brief
 Through chatbots one can communicate with text or voice interface and get reply through artificial intelligence
